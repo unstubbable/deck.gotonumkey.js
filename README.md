@@ -1,15 +1,19 @@
-Title:			deck.gotonumkey.js -- Extension for deck.js  
-Subtitle:		deck.js extension for jumping to any slide by pressing the corresponding number key(s).  
-Author:			Hendrik Liebau  
-Date:			September 22, 2011  
-Copyright:		2011 Hendrik.  
-				This work is licensed under a Creative Commons License.  
-				http://creativecommons.org/licenses/by-sa/2.5/
-Keywords:		deck.js, javascript
-
 # deck.gotonumkey.js #
 
 An extension for [deck.js][] allowing you to jump to any slide by pressing the corresponding number key(s).
 
+## Requirements ##
+
+[deck.js][] ... obviously.
+
+## How to install ##
+
+Just copy the `gotonumkey` folder to your deck.js `extensions` folder.
+
+## How to use ##
+
+Insert the following line at the end of your `body`.
+
+	<script src="../extensions/gotonumkey/deck.gotonumkey.js"></script>
 
 [deck.js]: https://github.com/imakewebthings/deck.js
